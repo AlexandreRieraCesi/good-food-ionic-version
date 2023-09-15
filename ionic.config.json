@@ -1,0 +1,8 @@
+{
+  "name": "Good Food Ionic Version",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ec22503f"
+}
